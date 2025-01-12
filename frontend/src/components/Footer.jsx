@@ -6,7 +6,7 @@ class Footer extends Component {
     return (
       <div className="footer">
         <a
-          href="https://github.com/devil-cyber/EditRox"
+          href="https://github.com/nitin-sontineni/EditRox"
           target="_blank"
           rel="noopener noreferrer"
           className="left-footer"
