@@ -61,5 +61,3 @@ The application is divided into three parts:
 
 ## Conclusion:
 After testing this application with various people, we got some posetive feedback and the application profrmace was also great durin the testing phase. There are some smaller bugs and we are yet woring on that. But overall we think that its a great start and in near feature we also launc a better version of this application with better UI and more features. We will also require some expert feedback and thier support along the way.
-
-[Click For Demo](https://editrox.netlify.app)
